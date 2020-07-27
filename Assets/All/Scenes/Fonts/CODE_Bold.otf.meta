@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cd93b065cb060e54aa32e6ef7e655a4c
+timeCreated: 1472203083
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 20
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Code Bold
+  fontNames:
+  - Code Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

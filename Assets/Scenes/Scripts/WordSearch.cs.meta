@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 37bf3438ed8c444449fdcdc1b095f0b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - f: {instanceID: 0}
+  - wordpool: {fileID: 4900000, guid: fdd1378fd24a4ce4591e0b591d6eb928, type: 3}
+  - tile: {instanceID: 0}
+  - background: {instanceID: 0}
+  - current: {instanceID: 0}
+  - Ear: {instanceID: 0}
+  - Heart: {instanceID: 0}
+  - Kidney: {instanceID: 0}
+  - Eye: {instanceID: 0}
+  - Brain: {instanceID: 0}
+  - Lungs: {instanceID: 0}
+  - spriteRenderer: {fileID: 2637706793346964095, guid: d88f1d95c61dcf949bfca1dd96c4da14,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

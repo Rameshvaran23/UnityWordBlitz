@@ -1,0 +1,70 @@
+fileFormatVersion: 2
+guid: 262d49c4eb7f7e3478d96d3bf0cd4626
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - f: {instanceID: 0}
+  - wordpool: {fileID: 4900000, guid: fdd1378fd24a4ce4591e0b591d6eb928, type: 3}
+  - tile: {fileID: 100000, guid: df6a556ece0952e469642be48a8f36b8, type: 3}
+  - background: {instanceID: 0}
+  - current: {instanceID: 0}
+  - annihilate: {instanceID: 0}
+  - antiquated: {instanceID: 0}
+  - behest: {instanceID: 0}
+  - belligerent: {instanceID: 0}
+  - culpable: {instanceID: 0}
+  - culprit: {instanceID: 0}
+  - ductile: {instanceID: 0}
+  - diabolical: {instanceID: 0}
+  - editorialize: {instanceID: 0}
+  - effervescence: {instanceID: 0}
+  - fecund: {instanceID: 0}
+  - firmament: {instanceID: 0}
+  - grandiose: {instanceID: 0}
+  - gravamen: {instanceID: 0}
+  - hapless: {instanceID: 0}
+  - harrowing: {instanceID: 0}
+  - implausible: {instanceID: 0}
+  - imponderable: {instanceID: 0}
+  - jaundiced: {instanceID: 0}
+  - junoesque: {instanceID: 0}
+  - kismet: {instanceID: 0}
+  - kowtow: {instanceID: 0}
+  - legerdemain: {instanceID: 0}
+  - lugubrious: {instanceID: 0}
+  - magnanimous: {instanceID: 0}
+  - malapropism: {instanceID: 0}
+  - noncommittal: {instanceID: 0}
+  - nugatory: {instanceID: 0}
+  - obstreperous: {instanceID: 0}
+  - orchestrate: {instanceID: 0}
+  - painstaking: {instanceID: 0}
+  - parsimonious: {instanceID: 0}
+  - quagmire: {instanceID: 0}
+  - quarantine: {instanceID: 0}
+  - realpolitik: {instanceID: 0}
+  - recrimination: {instanceID: 0}
+  - scapegoat: {instanceID: 0}
+  - sacrosanct: {instanceID: 0}
+  - tantamount: {instanceID: 0}
+  - transgression: {instanceID: 0}
+  - translucent: {instanceID: 0}
+  - unimpeachable: {instanceID: 0}
+  - utilitarian: {instanceID: 0}
+  - venturesome: {instanceID: 0}
+  - vehement: {instanceID: 0}
+  - wraith: {instanceID: 0}
+  - whimsical: {instanceID: 0}
+  - waggish: {instanceID: 0}
+  - xenophobia: {instanceID: 0}
+  - yearn: {instanceID: 0}
+  - yore: {instanceID: 0}
+  - zealot: {instanceID: 0}
+  - zeal: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
